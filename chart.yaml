@@ -1,0 +1,7 @@
+name: readtextwritemysql
+description: A generated Helm Chart for readtextwritemysql from Skippbox Kompose
+version: 0.0.1
+keywords:
+  - readtextwritemysql
+sources:
+home:
